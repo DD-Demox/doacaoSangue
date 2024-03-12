@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DoacaoSangue</string>
+    <string name="titulo">Qual é o seu tipo sanguíneo</string>
+    <string name="botao_pesquisar">Pesquisar</string>
+    <string name="resposta_titulo">Pessoas com os tipos sanguineos abaixo podem doar para voce</string>
+    <string name="resposta"></string>
+</resources>
